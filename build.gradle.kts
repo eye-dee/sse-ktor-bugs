@@ -24,7 +24,7 @@ repositories {
     }
 }
 
-val ktorVersion = "3.0.0-beta-2-eap-928"
+val ktorVersion = "3.0.0-beta-2-eap-932"
 
 dependencies {
     implementation("org.springframework.boot:spring-boot-starter-webflux")
